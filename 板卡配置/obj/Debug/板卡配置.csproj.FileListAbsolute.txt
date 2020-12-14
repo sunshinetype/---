@@ -1,0 +1,15 @@
+D:\IBC-wyn\自己写的小工具\板卡配置\板卡配置\bin\Debug\板卡配置.exe.config
+D:\IBC-wyn\自己写的小工具\板卡配置\板卡配置\bin\Debug\板卡配置.exe
+D:\IBC-wyn\自己写的小工具\板卡配置\板卡配置\bin\Debug\板卡配置.pdb
+D:\IBC-wyn\自己写的小工具\板卡配置\板卡配置\obj\Debug\板卡配置.csprojAssemblyReference.cache
+D:\IBC-wyn\自己写的小工具\板卡配置\板卡配置\obj\Debug\MainWindow.g.cs
+D:\IBC-wyn\自己写的小工具\板卡配置\板卡配置\obj\Debug\App.g.cs
+D:\IBC-wyn\自己写的小工具\板卡配置\板卡配置\obj\Debug\板卡配置_MarkupCompile.cache
+D:\IBC-wyn\自己写的小工具\板卡配置\板卡配置\obj\Debug\板卡配置_MarkupCompile.lref
+D:\IBC-wyn\自己写的小工具\板卡配置\板卡配置\obj\Debug\MainWindow.baml
+D:\IBC-wyn\自己写的小工具\板卡配置\板卡配置\obj\Debug\板卡配置.g.resources
+D:\IBC-wyn\自己写的小工具\板卡配置\板卡配置\obj\Debug\板卡配置.Properties.Resources.resources
+D:\IBC-wyn\自己写的小工具\板卡配置\板卡配置\obj\Debug\板卡配置.csproj.GenerateResource.cache
+D:\IBC-wyn\自己写的小工具\板卡配置\板卡配置\obj\Debug\板卡配置.csproj.CoreCompileInputs.cache
+D:\IBC-wyn\自己写的小工具\板卡配置\板卡配置\obj\Debug\板卡配置.exe
+D:\IBC-wyn\自己写的小工具\板卡配置\板卡配置\obj\Debug\板卡配置.pdb
